@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello! I'm Parad1st </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="aparad1st_snake.svg" alt="snake"/>
 </p>
 
 ## About me
