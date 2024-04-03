@@ -24,7 +24,7 @@ At the same time, I post videos on YouTube.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=unity,gradle,linux,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
     <br>
