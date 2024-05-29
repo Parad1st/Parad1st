@@ -17,7 +17,7 @@ At the same time, I post videos on YouTube.
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parad1st&repo=SkillLuze&theme=dracula&bg_color=00000000&)](https://github.com/Parad1st/SkillLuze)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parad1st&repo=AirDropBomber&theme=dracula&bg_color=00000000&)](https://github.com/Parad1st/AirDropBomber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parad1st&repo=BlackRussiaSource&theme=dracula&bg_color=00000000&)](https://github.com/Parad1st/BlackRussiaSource)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parad1st&repo=Black-Russia-Source&theme=dracula&bg_color=00000000&)](https://github.com/Parad1st/Black-Russia-Source)
 
 
 <details align="left">
